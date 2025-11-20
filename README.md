@@ -2,7 +2,7 @@
 
 ## NAME : Vignesh raaj 
 ## REG NO : 212223230239
-## DEPT : CSE(IOT)
+## DEPT : AI&DS
 # STEPD INVOLVED :
 ### STEP 1 : sudo mkdir -p /common/admin
 ### STEP 2 : sudo chown root:admin /common/admin
